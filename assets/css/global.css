@@ -1,0 +1,17 @@
+@import url(../css/cabecalho.css);
+
+:root {
+    /*cores cabecalho*/
+    --cor-logo-cabecalho: #3A404E;
+    --cor-link-cabecalho: #667085;
+
+
+    /*fontes*/
+    --fonte-principal: 'Inter', sans-serif;
+}
+
+body {
+    font-family: var(--fonte-principal);
+    font-size: 16px;
+    font-weight: 400;
+}

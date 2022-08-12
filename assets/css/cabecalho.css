@@ -1,0 +1,32 @@
+.cabecalho, 
+.cabecalho__container,
+.navegacao__lista {
+    align-items: center;
+    display: flex;
+}
+
+.cabecalho {
+    padding: 28px 112px;
+}
+
+.cabecalho__titulo {
+    color: var(--cor-logo-cabecalho);
+    font-size: 18px;
+    font-weight: 500;
+    margin-left: 8px;
+}
+
+.navegacao__lista {
+    margin-left: 119px;
+}
+
+.navegacao__item {
+    margin-right: 32px;
+}
+
+.navegacao__link,
+.container__link {
+    color: var(--cor-link-cabecalho);
+    font-weight: 500;
+    text-decoration: none;
+}
