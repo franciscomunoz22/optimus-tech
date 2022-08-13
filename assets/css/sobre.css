@@ -1,0 +1,27 @@
+.sobre {
+    padding: 96px 324px;
+    text-align: center;
+    align-items: center;
+}
+
+.sobre__texto {
+    background-color: var(--cor-vinho-claro);
+    border-radius: 16px;
+    color: var(--cor-vinho);
+    display: inline;
+    font-weight: 600;
+    padding: 4px 12px;
+}
+
+.sobre__titulo {
+    color: var(-cor-preto);
+    font-size: 48px;
+    font-weight: 600;
+    margin: 36px 0;
+}
+
+.sobre__texto-secundario {
+    color: var(--cor-cinza-claro);
+    font-size: 20px;
+    line-height: 30px;
+}

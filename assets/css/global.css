@@ -1,10 +1,14 @@
-@import url(../css/cabecalho.css);
+@import url(../css/navegacao.css);
+@import url(../css/sobre.css);
 
 :root {
-    /*cores cabecalho*/
-    --cor-logo-cabecalho: #3A404E;
-    --cor-link-cabecalho: #667085;
-
+    /*cores*/
+    --cor-cinza-escuro: #3A404E;
+    --cor-cinza-claro: #667085;
+    --cor-vinho: #8E2424;
+    --cor-vinho-claro: #8e24240d;
+    --cor-branco-geral: #FFFFFF;
+    --cor-preto: #101828;
 
     /*fontes*/
     --fonte-principal: 'Inter', sans-serif;
