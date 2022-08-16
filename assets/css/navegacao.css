@@ -1,7 +1,7 @@
 .navegacao {
     align-items: center;
     display: flex;
-    padding: 28px 0;
+    padding: 1.75em 0;
     justify-content: space-around;
 }
 
@@ -16,16 +16,16 @@
 .navegacao__link {
     color: var(--cor-cinza-claro);
     font-weight: 500;
-    margin: 0 16px;
+    margin: 0 1em;
     text-decoration: none;
 }
 
 .navegacao__botao--link {
     background-color: var(--cor-vinho);
-    border-radius: 8px;
+    border-radius: .5em;
     color: var(--cor-branco-geral);
-    margin: 0 8px;
-    padding: 10px 18px;
+    margin: 0 .5em;
+    padding: .62em 1.12em;
     text-decoration: none;
 }
 

@@ -1,0 +1,26 @@
+.vagas {
+    margin-top: 12em;
+    text-align: center;
+}
+
+.vagas__texto-destaque {
+    background-color: var(--cor-vinho-claro);
+    border-radius: .8em;
+    color: var(--cor-vinho);
+    display: inline;
+    font-size: 14px;
+    font-weight: 500;
+    padding: 0.25em 1em;
+}
+
+.vagas__titulo {
+    font-size: 36px;
+    font-weight: 600;
+    margin: .55em 0;
+}
+
+.vagas__texto {
+    color: var(--cor-cinza-claro);
+    font-size: 20px;
+    margin-bottom: 3.2em;
+}

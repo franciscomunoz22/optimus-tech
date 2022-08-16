@@ -4,7 +4,7 @@
 }
 
 .metricas {
-    margin: 0 24px;
+    margin: 0 1.5em;
     width: 16%;
 }
 
@@ -15,13 +15,12 @@
 }
 
 .metricas__texto-destaque {
-    color: var(--cor-preto);
     font-size: 18px;
     font-weight: 500;
-    margin: 24px 0 16px 0;
+    margin: 1.5em 0 1em 0;
 }
 
 .metricas__texto {
     color: var(--cor-cinza-claro);
-    line-height: 24px;
+    line-height: 1.5em;
 }
