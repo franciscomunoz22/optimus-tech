@@ -1,0 +1,30 @@
+.depoimentos {
+    background-color: var(--cor-vinho-claro);
+    border-radius: 1em;
+    margin: 6em 7em;
+    padding: 4em;
+    text-align: center;
+}
+
+.depoimentos__texto-destaque {
+    color: var(--cor-vinho);
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.depoimentos__titulo {
+    font-size: 36px;
+    font-weight: 500;
+    line-height: 1.22em;
+    padding: .44em 0 .89em 0;
+}
+
+.depoimentos__texto-nome {
+    font-weight: 500;
+    margin: 1em 0 .5em 0;
+}
+
+.depoimentos__texto-cargo {
+    color: var(--cor-cinza-claro);
+    font-size: 14px;
+}
