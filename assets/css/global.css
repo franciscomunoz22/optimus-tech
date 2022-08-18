@@ -4,15 +4,18 @@
 @import url(vagas.css);
 @import url(design-desenvolvidor.css);
 @import url(depoimentos.css);
+@import url(rodape.css);
 
 :root {
     /*cores*/
     --cor-cinza-escuro: #3A404E;
     --cor-cinza-claro: #667085;
+    --cor-cinza-copy: #98A2B3;
     --cor-vinho: #8E2424;
     --cor-vinho-escuro:#6e1616;
     --cor-vinho-claro: #8e24240d;
     --cor-branco-geral: #FFFFFF;
+    --cor-branco-gelo: #F9FAFB;
     --cor-preto: #101828;
 
     /*fontes*/
